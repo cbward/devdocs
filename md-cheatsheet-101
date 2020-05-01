@@ -1,0 +1,18 @@
+Looking to create a Markdown cheat sheet so I can use as reference...
+
+These are the main building blocks that I have used so far..
+
+# Headers
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+#Links
+To create a link, follow this pattern:
+
+[Google](https://www.google.co.uk)
+
